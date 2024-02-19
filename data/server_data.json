@@ -1,0 +1,181 @@
+{
+    "1039929563309932575": {
+        "Commands": {
+            "blacklist": [],
+            "roleblacklist": []
+        },
+        "Economy": {
+            "economy": true
+        },
+        "HQ": {
+            "adminroles": [
+                1052388635883864196,
+                1052386606201454633
+            ],
+            "name": "Noah Azrael's Hellscape",
+            "owner": 892990488611799112
+        },
+        "Reactions": {
+            "blacklist": [],
+            "botreactions": false,
+            "reactions": false,
+            "roleblacklist": []
+        }
+    },
+    "540987349610528768": {
+        "Commands": {
+            "blacklist": [],
+            "roleblacklist": []
+        },
+        "Economy": {
+            "economy": true
+        },
+        "HQ": {
+            "adminroles": [
+                759485091289497610,
+                622107785869393978,
+                809437314820472886,
+                622106046605033473
+            ],
+            "name": "Aiden Colonno: Battle Royale",
+            "owner": 299598093693878304
+        },
+        "Reactions": {
+            "blacklist": [],
+            "botreactions": false,
+            "reactions": false,
+            "roleblacklist": []
+        }
+    },
+    "759875308756795444": {
+        "Commands": {
+            "blacklist": [],
+            "roleblacklist": []
+        },
+        "Economy": {
+            "economy": true
+        },
+        "HQ": {
+            "adminroles": [
+                759887199897780264,
+                759879433561047121
+            ],
+            "name": "among us!",
+            "owner": 756594367531188354
+        },
+        "Reactions": {
+            "blacklist": [],
+            "botreactions": false,
+            "reactions": true,
+            "roleblacklist": []
+        }
+    },
+    "779964363854839818": {
+        "Commands": {
+            "blacklist": [],
+            "roleblacklist": []
+        },
+        "Economy": {
+            "economy": true
+        },
+        "HQ": {
+            "adminroles": [
+                798800581463375872,
+                798397537048068096
+            ],
+            "name": "Coke heads",
+            "owner": 309555468844400640
+        },
+        "Reactions": {
+            "blacklist": [],
+            "botreactions": false,
+            "reactions": true,
+            "roleblacklist": []
+        }
+    },
+    "798390128430809088": {
+        "Commands": {
+            "blacklist": [],
+            "roleblacklist": []
+        },
+        "Economy": {
+            "economy": true
+        },
+        "HQ": {
+            "adminroles": [],
+            "name": "GuacBot Workshop",
+            "owner": 409445517509001216
+        },
+        "Reactions": {
+            "blacklist": [],
+            "botreactions": false,
+            "reactions": true,
+            "roleblacklist": []
+        }
+    },
+    "803102098085380146": {
+        "Commands": {
+            "blacklist": [],
+            "roleblacklist": []
+        },
+        "Economy": {
+            "economy": true
+        },
+        "HQ": {
+            "adminroles": [
+                803106016619003914,
+                803104531571408906
+            ],
+            "name": "minecraft \u2661",
+            "owner": 322219906949185538
+        },
+        "Reactions": {
+            "blacklist": [],
+            "botreactions": false,
+            "reactions": true,
+            "roleblacklist": []
+        }
+    },
+    "827776738750103553": {
+        "Commands": {
+            "blacklist": [],
+            "roleblacklist": []
+        },
+        "Economy": {
+            "economy": true
+        },
+        "HQ": {
+            "adminroles": [],
+            "name": "Kangaroos in western indiana",
+            "owner": 409445517509001216
+        },
+        "Reactions": {
+            "blacklist": [],
+            "botreactions": false,
+            "reactions": false,
+            "roleblacklist": []
+        }
+    },
+    "844456658314067979": {
+        "Commands": {
+            "blacklist": [],
+            "roleblacklist": []
+        },
+        "Economy": {
+            "economy": true
+        },
+        "HQ": {
+            "adminroles": [
+                844457808430104577
+            ],
+            "name": "cum special",
+            "owner": 322219906949185538
+        },
+        "Reactions": {
+            "blacklist": [],
+            "botreactions": false,
+            "reactions": true,
+            "roleblacklist": []
+        }
+    }
+}
